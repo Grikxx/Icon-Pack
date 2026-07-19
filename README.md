@@ -6,7 +6,7 @@ A custom icon pack designed for GNOME and Linux desktop environments.
 ## Installation
 
 ### 1. Download the Theme
-Just download the from the release and extract the file and pase it to `~/.local/share/icons/` 
+Just download the from the release and extract the file and paste the extracted file in `~/.local/share/icons/` 
 
 ### OR
 
