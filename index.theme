@@ -1,0 +1,22 @@
+[Icon Theme]
+Name=Chill
+Comment=My custom SVG icon theme for apps and places
+Inherits=hicolor,Adwaita
+Example=folder
+
+# Both directories must be declared here, separated by a comma
+Directories=apps/scalable,places/scalable
+
+[apps/scalable]
+Size=64
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[places/scalable]
+Size=64
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=512
