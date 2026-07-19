@@ -1,5 +1,4 @@
 
-markdown
 # Icon-Pack
 
 A custom icon pack designed for GNOME and Linux desktop environments.
@@ -9,9 +8,9 @@ A custom icon pack designed for GNOME and Linux desktop environments.
 ### 1. Download the Theme
 Clone this repository directly into your local icons directory:
 
-bash
+```bash
 git clone [https://github.com/Grikxx/Icon-Pack.git](https://github.com/Grikxx/Icon-Pack.git) ~/.local/share/icons/Icon-Pack
-
+```
 
 
 *Note: If the `~/.local/share/icons` directory does not exist, create it first using `mkdir -p ~/.local/share/icons`.*
@@ -35,9 +34,3 @@ gsettings set org.gnome.desktop.interface icon-theme "Icon-Pack"
 * `places/scalable` & `places@2x`: System folders and navigation location icons.
 * `index.theme`: The configuration file that defines icon directory paths, sizes, and context for the desktop environment.
 * `icon-theme.cache`: Pre-compiled graphical cache to ensure fast rendering performance.
-
-
-
-```
-
-```
