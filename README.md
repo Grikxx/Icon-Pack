@@ -6,7 +6,11 @@ A custom icon pack designed for GNOME and Linux desktop environments.
 ## Installation
 
 ### 1. Download the Theme
-Just download the from the release and extract the file or Clone this repository directly into your local icons directory:
+Just download the from the release and extract the file and pase it to `~/.local/share/icons/` 
+
+### OR
+
+Clone this repository directly into your local icons directory:
 
 ```bash
 git clone [https://github.com/Grikxx/Icon-Pack.git](https://github.com/Grikxx/Icon-Pack.git) ~/.local/share/icons/Icon-Pack
